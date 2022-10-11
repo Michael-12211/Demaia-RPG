@@ -1,0 +1,242 @@
+new_1
+check_4_=_0
+print_-1_1_Now that's a big flower!
+print_-1_2_Though... if I shov it in my bag it'll get crushed
+print_-1_2_Besides, a giant flower isn't exactly practical
+print_-1_1_I'll take a small one. I could put it on my head
+print_0_0_You obtained the hair flower
+gain_1_1_1
+acheive_4_1
+print_-1_1_these flowers do look nice
+end_1
+
+new_2
+print_-1_0_"Clarke family farm"
+end_2
+
+new_3
+check_5_<_20
+print_-1_2_I really shouldn't be going this way
+print_-1_0_Not that I don't want to, but it's a long walk
+print_-1_2_and I have other places to be
+no
+end_3
+
+new_4
+check_6_=_1
+print_12_0_Got the pelt yet?
+print_-1_2_No, just ckecking in
+check_6_=_0
+print_-1_0_I've never seen you around here before, what brings you here?
+print_12_0_I'm a nomad. 'means I travel alot. Don't keep one home
+print_-1_2_I know what a nomad is. I was just wondering what you were doing
+print_12_0_Ah. whittling
+print_-1_5_Ok, that I don't know about. What's whittling?
+print_12_0_Wood carving. I make doodads to trade for resources I need.
+print_-1_0_Interesting
+print_12_0_Anything you think you'd need?
+print_-1_2_Well, I currently have this old cudgel that I've been using to defend myself
+print_-1_1_Think you might be able to do something better?
+print_12_5_It's a blunt stick, what do you expect me to do?
+print_-1_0_Give me a sharp stick?
+print_12_5_...
+print_-1_2_Yeah...
+print_-1_0_Well, what about that wood-carving knife you have there? Any spares?
+print_12_0_Yes, as it happens, but I'll need something in return.
+print_-1_0_How much?
+print_-1_2_Money's a little tight at the moment, so, I can't go too high
+print_12_0_That's fine, I don't fancy cash much myself. Always perferred bartering.
+print_-1_4_Oh, in that case, what do you want me to get you? My family owns a farm.
+print_12_0_Nah, I can trade for foods whenever, I want something special.
+print_-1_5_Oh... what?
+print_12_0_I'm looking for a good pelt. 'fashion myself new clothes.
+print_-1_2_Uhm... you're naked
+print_12_0_I enjoy the option
+print_12_0_'Sides, climate's changing. The northern reaches of Demaia's getting colder.
+print_-1_2_I hadn't noticed
+print_12_0_It's subtle, only just started, but it's happening, and I want to be prepared
+print_-1_0_Hence the pelt for insulation?
+print_12_0_Exactly.
+print_12_0_Bring me a large, mammal pelt, and I'll give you my spare knife. Deal?
+print_-1_1_deal!
+print_12_5_Wait... you probably can't skin the hide, can you?
+print_-1_2_Well, not without the knife.
+print_12_5_In that case, just kill it and bring it to me. I'll skin it myself.
+print_12_0_Actually, you dragging the massive carcasse across the forest floor will ruin it...
+print_12_0_You know what? Just tell me where it is and I'll fly over to it myself.
+print_-1_0_Then how will you know I'm not just lying to you?
+print_12_5_I'll be able to tell if you just killed a massive beast.
+print_-1_2_ok...
+print_-1_1_I'll secure you your pelt and be back as soon as I'm done.
+acheive_6_1
+end_4
+
+new_5
+print_-1_0_"WARNING: these bushes contain poisonous mushrooms. Handle at own risk"
+check_8_=_1
+print_-1_4_Blunt, but these are certainly what he's looking for
+print_-1_7_Just gotta be careful... and...
+print_-1_1_done!
+print_-1_1_Now I just need to get back to that research guy.
+acheive_8_2
+end_5
+
+new_6
+print_-1_1_"Welcome to Lealet village"
+end_6
+
+new_7
+print_-1_0_What's this?
+print_-1_5_Some sort of crystal?
+print_-1_5_It's discoloring the ground around it
+print_-1_2_...
+print_-1_1_I'm gonna take it
+print_-1_3_Hrgg!
+print_-1_6_whoo...
+print_-1_0_That's really stuck in there.
+print_-1_2_I wonder how deep it goes.
+print_-1_0_...
+print_-1_5_This must be here for a reason, it's not exactly hidden...
+print_-1_2_...
+print_-1_2_I shoud come back here later
+end_7
+
+new_8
+check_5_=_0
+print_-1_1_Good morning, Mrs. Clarke!
+print_13_1_Well, good morning to you, too.
+print_-1_0_Mind if I ask you something?
+print_13_1_Anything you need to ask is fine with me
+print_-1_0_We got an envelope telling us that shipments to the mainland have stopped
+print_-1_7_You wouldn't happen to know anything about that, would you?
+print_13_5_Yes actually, we got the same notice
+print_13_0_but we didn't get a reason,
+print_13_5_Or really anything at all.
+print_-1_2_Yeah, same...
+print_13_0_If you want to know more, I recommend asking around lealet village up north.
+print_13_1_Esmond's up there trying to peddle his alchemy, you should say hi.
+print_-1_1_Yeah, he's always talking about that stuff...
+print_-1_2_All that magi-bable just goes over my head
+print_13_5_Alchemy isn't exactly magic, it's all... elements and compounds
+print_-1_0_All the same to me, magic isn't my strong suit anyways.
+print_-1_8_Sure I've apparently got some "natural perpencity" nonesense
+print_-1_2_not that it matters with how little I can actually do with it.
+print_13_1_Well, I'm sure you can do something, everyone's got gift of some kind
+print_13_1_I myself am quite handy with the ol' shadowflame
+print_-1_1_Yeah, sure,
+print_-1_2_but the most I can do is just make a wad of... stuff
+print_13_0_Is it solid?
+print_-1_5_yeah?
+print_13_1_you could always just throw it, give pests a good...
+print_13_3_Hya!
+print_-1_0_heh, yeah...
+gain_7_11_1
+print_0_0_You leaned the skill: lob
+print_0_0_Equip skills alongside other equipment by pressing e
+print_-1_1_Anyways, I guess I'll head to Lealet.
+print_-1_1_You comming?
+print_13_0_Sorry. As much as I'd love to check in on my son, I have to stay here
+print_-1_4_Oh, why?
+print_13_5_My husband was called down to Raustock to deal with an immigration concern
+print_13_5_He was only supposed to be down for a few days, but he's running late
+print_-1_0_Think it might be related to the exports?
+print_13_5_I highly doubt it
+print_13_0_Either way, I'll stay here and look after the farm
+acheive_5_1
+check_0_!
+print_13_1_You go and have fun!
+print_-1_1_I will. Thanks, Mrs. C.
+end_8
+
+new_9
+print_-1_4_The den of some beast
+print_-1_7_I really shouldn't poke around here more than I need to
+check_6_=_1
+print_-1_2_Hmm...
+print_-1_2_I guess this would suffice for the pelt
+print_-1_0_But am I really going to attack whatever did this for a knife?
+print_-1_2_...
+print_-1_0_Well these are only squirrel bones...
+print_-1_0_And these trees were sawed throguh, not knocked over with brute force...
+print_-1_4_Then this is a woodrend burrow
+print_-1_9_I can take it! Let's do this!
+fight_13_5
+end_9
+
+new_10
+check_7_=_1
+print_-1_2_Nothing else here
+check_7_=_0
+print_-1_4_Hmm?
+print_-1_0_There's a shirt hanging in this tree
+print_-1_2_...
+print_-1_5_Someone must have taken a dip in the pond and forgot it
+print_-1_8_Well...
+print_-1_1_I guess it's mine now!
+gain_2_1_1
+acheive_7_1
+print_0_0_You obtained the leather overshirt!
+end_10
+
+new_11
+check_8_=_3
+print_-1_0_You wouldn't happen to have anything else interesting?
+print_14_7_affraid not, sorry
+check_8_=_1
+print_14_0_any luck?
+print_-1_2_no.
+check_8_=_0
+print_-1_7_What are you doing alone in the forest?
+print_14_0_As it happens, I'm a researcher.
+print_-1_0_Oh, then what are you studying?
+print_14_0_Mushrooms. Poisonous ones to be percise.
+print_-1_2_There are poisonous mushrooms growing in lealet outskirts?
+print_14_2_Only a few, appearently. I came to check them out, but can't find any
+print_-1_0_Would you need help finding some? I know this area...
+print_-1_2_...somewhat well.
+print_14_7_I.. I guess I could use some help.
+print_14_2_though you should be careful, I don't know how dangerous they are
+print_-1_8_Yeah, that's a given.
+print_14_0_Okay then, safety basics...
+print_14_2_handle from the top, avoid areas you can't see
+print_14_2_touch only with fingertips, minimize skin contact.
+print_-1_5_You have many more of these?
+print_14_0_Yes. Plenty.
+print_0_0_You learned the disarm skill
+print_0_0_Use in combat to gain damage resistance and remove dangers
+gain_7_13_1
+print_14_0_Okay then, that's about it.
+print_-1_1_Cool. I'll get you one mushroom!
+print_-1_2_As soon as I find it.
+acheive_8_1
+check_8_=_2
+print_-1_1_I found you a poisonous mushroom!
+print_14_1_Excellent!
+print_-1_0_here you go then
+print_14_2_hmm
+print_14_2_that's disapointing
+print_14_2_we have this same breed back on Demaia
+print_-1_5_so this was worthless?
+print_14_0_no, I wouldn't say that
+print_14_1_the knowledge that the spores managed to cross here has value
+print_14_7_though I was hoping for a bit more
+print_-1_0_then are you just going to head out of the woods?
+print_14_2_no, actually, my boat's been delayed a few days, so I'm in no rush.
+print_-1_4_I thought the issue was only with external travel!
+print_14_0_It is, but there is so much confusion at the docks, well...
+print_14_2_the ship got delayed.
+print_-1_5_In that case, I guess have fun
+print_14_0_Actually before you leave,
+print_14_0_it's only fair you get something for your efforts
+print_14_2_...
+print_14_7_I actually don't have much on me beyond research equipment
+print_14_0_I guess you can keep the mushroom?
+print_-1_5_Gee. Thanks
+print_14_0_Don't be so hard on it, it is great for compost heaps.
+print_14_2_Just don't get too close to you or anyone's face.
+print_14_2_Breathing in the those spores can be dangerous.
+print_-1_2_...
+print_-1_0_good to know.
+gain_5_1_1
+acheive_8_3
+end_11

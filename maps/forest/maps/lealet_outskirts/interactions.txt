@@ -1,0 +1,18 @@
+17
+connect farm family_farm 3 10 0 0 2 0 4
+dialogue 1 2 9 0 9 7
+dialogue 2 1 8 0 3 5
+dialogue 4 2 5 0 6 4
+dialogue 5 3 6 0 6 2
+dialogue 6 1 0 0 8 2
+dialogue 7 0 0 0 5 6
+dialogue 8 0 8 0 5 1
+dialogue 9 1 4 0 5 4
+dialogue 10 3 3 0 11 1
+dialogue 11 3 2 0 8 5
+wall 3 3 10 0 0 13
+encounter 2 5 12 2
+encounter 2 4 10 3
+encounter 2 1 11 3
+encounter 3 100 14 2
+encounter 1 1 10 1

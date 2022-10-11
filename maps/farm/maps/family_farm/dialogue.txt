@@ -1,0 +1,122 @@
+new_1
+check_0_=_0
+print_-1_0_it's just a chest full of gardening tools.
+print_-1_0_spade, shovel, I don't think any of this is practical at the moment.
+print_-1_2_well, I guess these boots couldn't hurt
+print_0_0_You obtained gardening boots!
+gain_3_1_1
+acheive_0_1
+check_0_=_1
+print_-1_0_nothing else in here I need
+end_1
+
+new_2
+check_1_=_0
+print_-1_0_It's last week's harvest from the mango trees
+print_-1_2_The trees are still small, so there's not too many fruits,
+print_-1_1_but at least they taste good!
+print_0_0_You obtained 3 mango!
+gain_6_1_3
+acheive_1_1
+check_1_=_1
+print_-1_0_It's best I don't take too many, mom and dad still need to eat.
+end_2
+
+new_3
+check_2_=_0
+print_10_1_Good morning, dear, sleep well?
+print_-1_2_Not really, no
+print_10_5_Oh, that's too bad
+print_10_1_But I'm making something that I think will make you happy
+print_-1_5_...what?
+print_10_1_devilled eggs!
+print_-1_4_really? What's the occasion?
+print_11_0_Trust me, it's not a good one
+print_10_2_We got a letter in the mail. Supposedly, exports to the mainland have halted.
+print_10_2_The letter didn't explain why
+print_11_0_So, now only a few days from the harvest we've lost most customers
+print_10_2_It's not like we'll go hungry, the harvest seems strong
+print_11_0_but we'll be short on Gilberts, and that won't end well
+print_-1_5_Oh, well, that's not good
+print_-1_2_That's actually really bad.
+print_-1_5_At least the eggs are nice
+print_10_1_Yes. They'll be done in a few minutes
+print_11_0_Meanwhile, Mind if I ask you a favor?
+print_-1_0_Sure, what?
+print_11_0_Just go out back and bash a couple squirrels, alright?
+print_11_0_Money's tight, so we'll need the ensure the harvest goes as well as possible.
+print_11_0_Just keep them off the trees, atleast
+print_-1_0_Sure thing...
+print_-1_2_...I guess.
+acheive_2_1
+end_3
+
+new_4
+check_2_>_1
+print_-1_0_thankfully, there aren't any more squirrels in here
+check_2_=_1
+print_-1_0_Hey, uh, squirrel! Get away from the mangos!
+print_-1_2_or something
+print_-2_0_Squee!
+print_-1_4_Oh, you're bigger than the others
+print_-1_3_Whatever! Come down and prepare to be...
+print_-1_2_hit with an oversized stick
+print_0_0_When in combat, your options will appear on the left
+print_0_0_Select one by pressing the number shown beside them
+print_0_0_Try to drop your opponent's HP to zero
+fight_10_10
+print_-1_0_There. Taken care of.
+print_-1_2_I'm heading back inside.
+acheive_2_2
+end_4
+
+new_5
+print_-1_0_"Welcome to the Roa family farm"
+end_5
+
+new_6
+print_-1_0_My bed.
+print_-1_6_A quick rest couldn't hurt
+heal
+print_0_0_Health and mana fully restored
+end_6
+
+new_7
+check_2_<_3
+print_-1_2_(What am I doing? The farm is at the rear of the house)
+no
+end_7
+
+new_8
+check_2_=_2
+print_-1_0_Job's done. No more squirrels in the trees
+print_10_1_That's great to hear. Breakfast just finished, enjoy!
+print_-1_1_Thanks, mom!
+heal
+print_0_0_You ate the eggs. Your health and mana were restored
+print_10_1_Well, you were certainly hungry
+print_-1_1_No, but your cooking is really good
+print_10_1_That's nice, dear
+print_11_0_Yeah, everyone's happy, but I still can't make heads or tails of this letter.
+print_-1_2_Is it really that important, dad? Seems like beurocracy to me
+print_11_0_It's beurocracy that threatens our livelyhood, so yes.
+print_11_3_The least they could do would be to give a reason!
+print_-1_0_If this an issue for us, It's probably and issue for everyone else.
+print_-1_0_I could just head to The Rostons and ask if they know anything.
+print_-1_2_It's not a long walk, and I have nothing better to do anyways
+print_11_0_If you want to head out, that's fine by me
+print_10_5_Just don't be too long, ok?
+print_-1_1_You don't need to worry about me, I'll be fine, I'm not heading far.
+acheive_2_3
+end_8
+
+new_9
+print_-1_0_My dresser
+check_3_=_0
+print_0_0_Certain objects, like your dresser allow you to change your equipment
+print_0_0_Select an equipment slot you want to change, and select a new peice of equipment
+print_0_0_You can equip items whenever you want by pressing e
+acheive_3_1
+check_0_!
+equip
+end_9

@@ -1,0 +1,7 @@
+3
+3
+1
+0 0 0
+maize 2 - maize 1 - maize 3
+home 2 - home 1 - maize 4
+front 3 - front 1 - front 2

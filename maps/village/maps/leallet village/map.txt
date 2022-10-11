@@ -1,0 +1,9 @@
+5
+5
+1
+0 0 0
+### 0 - ### 0 - ### 0 - ### 0 - ### 0
+### 0 - road 1 - ### 0 - ### 0 - ### 0
+fence 4 - road 3 - road 8 - kitchen 0 - ### 0
+fence 3 - road 2 - road 0 - road2 0 - ### 0
+fence 2 - fence 1 - fence 0 - fence 1 - ### 0

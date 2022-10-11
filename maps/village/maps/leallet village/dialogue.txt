@@ -1,0 +1,12 @@
+new_-1
+check_0_=_0
+print_-1_0_it's just a chest full of gardening tools.
+print_-1_0_spade, shovel, I don't think any of this is practical at the moment.
+print_-1_2_well, I guess these boots couldn't hurt
+print_0_0_You obtained gardening boots!
+gain_3_1_1
+acheive_0_1
+check_0_=_1
+print_-1_0_nothing else in here I need
+end_1
+

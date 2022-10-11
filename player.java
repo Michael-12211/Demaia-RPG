@@ -1,0 +1,6 @@
+class player
+{
+    public player ()
+    {
+    }
+}

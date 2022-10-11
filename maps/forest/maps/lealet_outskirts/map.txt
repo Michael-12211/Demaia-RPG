@@ -1,0 +1,15 @@
+4
+11
+1
+3 2 0
+crystal 1 - outskirt 1 - null 0 - bees 3
+path 5 - path 3 - bees 1 - bees 2
+path 1 - wild 5 - wild 10 - research 1
+diverge 1 - wild 3 - wild 8 - pond 1
+path 1 - den 1 - wild 7 - whittle 3
+path 4 - path 2 - whittle 1 - whittle 2
+null 0 - null 0 - path 1 - mushroom 3
+null 0 - null 0 - mushroom 1 - mushroom 2
+farm 5 - farm 3 - path 7 - path 6
+farm 4 - branch 2 - branch 3 - farm 2
+wild 4 - branch 1 - wild 2 - farm 1

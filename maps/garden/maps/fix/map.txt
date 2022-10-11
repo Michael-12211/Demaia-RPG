@@ -1,0 +1,31 @@
+9
+13
+2
+4 12 0
+chest 2 - ent 1 - chest 4 - chest 3 - chest 3 - chest 2 - patch 9 - chest 4 - chest 3
+cliff 3 - skeleton 3 - patch 2 - patch 11 - patch 11 - picnic 2 - fountain 2 - chest 3 - ruin 1
+cliff 2 - chest 1 - chest 3 - chest 1 - patch 1 - chest 1 - patch 4 - patch 7 - patch 3
+cliff 2 - chest 2 - patch 11 - chest 4 - corridor 4 - chest 4 - chest 2 - patch 9 - skeleton 2
+cliff 2 - chest 2 - fountain 3 - chest 4 - corridor 1 - chest 3 - chest 3 - gazebo 3 - chest 3
+cliff 2 - chest 3 - patch 1 - chest 2 - corridor 3 - mound 1 - patch 3 - gazebo 1 - gazebo 2
+cliff 1 - patch 11 - patch 11 - chest 4 - corridor 1 - patch 1 - chest 2 - picnic 1 - patch 6
+chest 3 - chapel 1 - chest 1 - chest 3 - chest 1 - patch 4 - patch 9 - patch 9 - patch 10
+patch 1 - hound 1 - patch 9 - patch 10 - fountain 1 - chest 3 - chest 1 - bees 1 - chest 1
+patch 8 - patch 2 - patch 10 - chest 1 - corridor 1 - patch 4 - patch 9 - patch 7 - patch 6
+chest 1 - patch 5 - patch 7 - chest 4 - patio 1 - patch 2 - patch 10 - grove 1 - patch 3
+grove 1 - patch 7 - patio 3 - hall 3 - hall 1 - hall 2 - patio 2 - corridor 2 - greenhouse 1
+entrance 3 - entrance 2 - entrance 2 - entrance 2 - entrance 1 - entrance 2 - entrance 2 - entrance 2 - entrance 4
+
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - bridge 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - hall 4 - null 1 - null 1 - null 1 - null 1 - null 1
+null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1 - null 1
